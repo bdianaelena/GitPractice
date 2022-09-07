@@ -1,2 +1,2 @@
 # GitPractice
-My first project.
+Primul meu proiect.
